@@ -1,0 +1,17 @@
+{
+  "name": "topdrink-hyperf/apollo",
+  "description": "description",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ryan",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "topdrink-hyperf\\apollo\\": "src"
+    }
+  }
+}
