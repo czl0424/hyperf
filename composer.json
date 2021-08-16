@@ -9,9 +9,10 @@
       "email": "email@example.com"
     }
   ],
+  "require": {},
   "autoload": {
     "psr-4": {
-      "topdrink-hyperf\\apollo\\": "src"
+      "TopdrinkHyperf\\Apollo\\": "src"
     }
   }
 }
